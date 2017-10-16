@@ -1,7 +1,3 @@
-// Robo India Tutorial on Shift Register SN74HC595N
-//http://roboindia.com/
-
-
 int DataPin = 2;  // Data Pin is connected to Pin No. 2
 int ClockPin = 3; // Data Pin is connected to Pin No. 3
 int LatchPin = 4; // Data Pin is connected to Pin No. 4
